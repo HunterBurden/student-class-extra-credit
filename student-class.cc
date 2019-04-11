@@ -22,6 +22,8 @@ public:
     void setId(int newId);
     void setName(string newName);
     void setScore(double newScore);
+
+    //output function
     void output();
 
 private:
